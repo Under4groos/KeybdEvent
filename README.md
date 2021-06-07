@@ -6,7 +6,7 @@
 ```csharp
 using System.Runtime.InteropServices;
 ```
-Далее набрать этот код:
+Далее набрать код:
 ```csharp
 /// <summary>
 /// Зажимает и отпускает клавишу <int key>. 
