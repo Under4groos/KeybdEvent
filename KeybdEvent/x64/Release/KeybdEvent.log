@@ -1,0 +1,7 @@
+﻿  dllmain.cpp
+     Создается библиотека C:\Users\UnderKo\source\repos\KeybdEvent\x64\Release\KeybdEvent.lib и объект C:\Users\UnderKo\source\repos\KeybdEvent\x64\Release\KeybdEvent.exp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 7 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  KeybdEvent.vcxproj -> C:\Users\UnderKo\source\repos\KeybdEvent\x64\Release\KeybdEvent.dll
