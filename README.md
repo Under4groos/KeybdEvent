@@ -36,3 +36,5 @@ Thread.Sleep(400);
 KeyRelese((int)System.Windows.Forms.Keys.P);
 Thread.Sleep(400);
 ```
+# License
+MIT - do whatever you want.
